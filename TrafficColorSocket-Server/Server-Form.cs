@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Diagnostics;
 using System.Drawing;
 using System.Text;
 using System.Threading;
 using System.Windows.Forms;
-using TrafficColorSocket_Client;
 
 namespace TrafficColorSocket_Server
 {
@@ -43,7 +41,7 @@ namespace TrafficColorSocket_Server
             if (varGlobal.terimapesandiserver.Length > 1)
             {
                 textBoxPesan.Clear();
-                String[] data = varGlobal.terimapesandiserver.Trim().Split(',');
+                string[] data = varGlobal.terimapesandiserver.Trim().Split(',');
                 StringBuilder sb = new StringBuilder();
                 sb.Append("Lampu ").Append(data[0]).Append(" ").Append(data[1]);
                 changer(data);

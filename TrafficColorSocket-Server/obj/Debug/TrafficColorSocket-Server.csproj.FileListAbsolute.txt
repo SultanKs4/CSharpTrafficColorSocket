@@ -1,0 +1,10 @@
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csprojAssemblyReference.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Form1.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket_Server.Properties.Resources.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.GenerateResource.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.csproj.CoreCompileInputs.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe.config
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\bin\Debug\TrafficColorSocket-Server.pdb
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\TrafficColorSocket\TrafficColorSocket-Server\obj\Debug\TrafficColorSocket-Server.pdb

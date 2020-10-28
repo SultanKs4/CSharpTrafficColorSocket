@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficColorSocket-Client", "TrafficColorSocket-Client\TrafficColorSocket-Client.csproj", "{7FAF2B0A-F6C5-405E-89BF-F52A1B020F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficColorSocket-Server", "TrafficColorSocket-Server\TrafficColorSocket-Server.csproj", "{BBDF5276-AC3A-462F-B5E0-AA29C2EE7100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FAF2B0A-F6C5-405E-89BF-F52A1B020F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAF2B0A-F6C5-405E-89BF-F52A1B020F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAF2B0A-F6C5-405E-89BF-F52A1B020F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAF2B0A-F6C5-405E-89BF-F52A1B020F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDF5276-AC3A-462F-B5E0-AA29C2EE7100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDF5276-AC3A-462F-B5E0-AA29C2EE7100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDF5276-AC3A-462F-B5E0-AA29C2EE7100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDF5276-AC3A-462F-B5E0-AA29C2EE7100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {476C8F94-B53D-45ED-A28C-FCE0DAFD55D3}
+	EndGlobalSection
+EndGlobal
